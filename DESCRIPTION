@@ -1,0 +1,13 @@
+Package: EventPointer
+Version: 1.0
+Date: 2015-10-21
+Title: EventPointer: Analysis of Alternative Splicing Using Microarray Data
+Author: Juan Pablo Romero <jpromero@ceit.es> and Angel Rubio <arubio@ceit.es>
+Maintainer: Juan Pablo Romero <jpromero@ceit.es>
+Description: EventPointer gives statistical parameters to identify significant
+    alternative splicing events using information from microarrays
+Depends:
+    limma,aroma.affymetrix,Matrix,matrixStats,dcGOR
+License: GPL
+LazyData: TRUE
+RoxygenNote: 5.0.0
