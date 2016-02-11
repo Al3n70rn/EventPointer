@@ -7,8 +7,3 @@ genomic position, statistical significance and affected protein domains.
 
 The algorithm requires low amounts of RAM memory and performs the test in less than 1 minute (Depends on the PC)
 
-The R package is available on [CRAN] and can be installed in R as:
-```r
-install.packages('EventPointer')
-```
-[CRAN]: https://cran.r-project.org/
