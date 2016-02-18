@@ -7,3 +7,10 @@ genomic position, statistical significance and affected protein domains.
 
 The algorithm requires low amounts of RAM memory and performs the test in less than 1 minute (Depends on the PC)
 
+## Installation
+R package EventPointer can be installed in R as:
+```r
+library(devtools)
+install_github("jpromeror/EventPointer")
+```
+
