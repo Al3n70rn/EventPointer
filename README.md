@@ -13,6 +13,11 @@ R package EventPointer can be installed in R as:
 library(devtools)
 install_github("jpromeror/EventPointer")
 ```
-For problems refered to the installation of "dcGOR" R Package
+For problems with the installation of "dcGOR" R Package
 refer to:
 http://dcgor.r-forge.r-project.org/install.html
+
+
+## Vignette
+The EventPointer Vignette can be visualized in the following URL
+https://rawgit.com/jpromeror/EventPointer/master/EP_Vignette.html
